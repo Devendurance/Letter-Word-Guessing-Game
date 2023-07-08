@@ -62,5 +62,33 @@ const wordList = [
     {
         word: "bugs",
         hint: "related to programming"
+    },
+    {
+        word: "poseidon",
+        hint: "greek god of water"
+    },
+    {
+        word: "ares",
+        hint: "greek god of war"
+    },
+    {
+        word: "tinubu",
+        hint: "nigerian king of the streets"
+    },
+    {
+        word: "venice",
+        hint: "italian city surrounded by water"
+    },
+    {
+        word: "khalifa",
+        hint: "a famous skyscrapper in dubai, also a title of leadership"
+    },
+    {
+        word: "moon",
+        hint: "earth's natural satellite"
+    },
+    {
+        word: "chocolate",
+        hint: "sweet and brown"
     }
 ]
