@@ -70,6 +70,9 @@ const initGame = (e) =>{
 
 resetBtn.addEventListener("click",randomWord)
 typingInput.addEventListener("input", initGame)
+inputs.addEventListener("click", () => {
+    typingInput.focus()
+})
 document.addEventListener("keydown", () => {
     typingInput.focus()
 })
