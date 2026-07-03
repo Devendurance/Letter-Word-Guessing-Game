@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@usesigillum/cli": "^0.1.0"
+  }
+}
